@@ -23,4 +23,12 @@ The purpose of this project is to review production data for insights which may 
 
 ## Analysis 
 
+### Linear Regression to Predict MPG
+The null hypothesis for this model would be that length, weight, spoiler angle, clearance, and all wheel drive have no statistically significant impact on mpg performance. 
+
+The resulting model to predict mpg could be expressed as:
+mpg = -104 + (6.3)length + (.0012)weight + (.069)spoilerangle + (3.5)clearance + (-3.4)awd
+
+The p-value for this model is 5.35e-11, which is smaller than the significance level of .05%. With this in mind, it is possible to reject the null hypothesis. Variables weight, spoiler angle, and awd all have p-values of greater than .05, indicating that these variables do not account for a statistically significant relationship with mpg. Variables ground clearance and length both have p-values of less than .05, indicating that these variables do account for a statistically significant relationship with mpg. A R-squared value of .71 is evidence that the slope of the linear model is non-zero.
+
 ## Statistical Study Design
