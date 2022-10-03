@@ -9,10 +9,10 @@ The purpose of this project is to review production data for insights which may 
 
 ## Results
 
-### Linear Regression
+### Multiple Linear Regression
 <img width="371" alt="Capture" src="https://user-images.githubusercontent.com/107224097/193650252-b21bfbf1-7b08-47cb-9359-680e39d090b6.PNG">
 
-### Lot Summary 
+### Lot Summary Statistics 
 <img width="496" alt="lot_summary" src="https://user-images.githubusercontent.com/107224097/193650297-bdc9274c-ff8e-4e59-9d7f-22c5ef266554.PNG">
 
 ### Suspension T-Test
@@ -20,3 +20,7 @@ The purpose of this project is to review production data for insights which may 
 
 ### Total Summary
 <img width="354" alt="total_summary" src="https://user-images.githubusercontent.com/107224097/193650482-ac780ef3-dd2e-4296-bf0b-9a668389b98a.PNG">
+
+## Analysis 
+
+## Statistical Study Design
